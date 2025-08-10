@@ -1,7 +1,7 @@
 # Hi there, I'm Sehansa Kosgolle 👋
 
 🎓 **Software Engineering Undergraduate** at the University of Westminster  
-💡 Passionate about **Full-Stack Development**, **Blockchain**, **UI/UX**, and **Cloud Computing**  
+💡 Passionate about **Full-Stack Development**, **UI/UX**, and **Cloud Computing**  
 🚀 Always eager to learn, innovate, and collaborate on impactful projects.
 
 ---
@@ -50,13 +50,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- **Top 5 - Sherlock 2.0 (2025)** – IEEE WIE, IIT  
-- **Top 4 - Stage Craft (2023)** – IIT  
-- **1st Runner Up - Pesta Bola Jarring Netball Tournament (2018)** – Malaysia
-
----
 
 ## 🤝 Leadership & Volunteering
 
@@ -72,6 +65,7 @@
 - **Web Development** – University of Moratuwa (2022)  
 - **Spring Boot** – LinkedIn Learning (2024)  
 - **Angular Essential Training** – LinkedIn Learning (2024)
+- **Agile Methodology** – LinkedIn Learning (2024)
 
 ---
 
