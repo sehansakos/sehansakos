@@ -9,6 +9,7 @@
 ## 💻 Tech Stack
 
 **Languages:**
+
 ![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
@@ -83,4 +84,4 @@
 
 
 ---
-⭐ *"Passionate about turning ideas into impactful digital experiences."*
+
