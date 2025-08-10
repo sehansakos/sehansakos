@@ -8,12 +8,13 @@
 
 ## 💻 Tech Stack
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
+**Languages:**
+![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=database\&logoColor=white)
 
 **Web & Frameworks:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -75,6 +76,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sehansakos)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Sehansakos)  
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/)
+
+
+
+⭐ *"Passionate about turning ideas into impactful digital experiences."*
+
 
 ---
 ⭐ *"Passionate about turning ideas into impactful digital experiences."*
